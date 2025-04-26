@@ -20,4 +20,4 @@
 add_subdirectory(referee_protocol)
 target_link_libraries(${PROJECT_NAME} PUBLIC referee_protocol)
 ```
-后续再完善
+由于当前兵种并未涉及到整包的裁判系统数据获取，故后续再完善
